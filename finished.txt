@@ -1,2 +1,4 @@
 github_example version of finished.txt
 conflicting github_example2 version of finished.txt
+
+new
